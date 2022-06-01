@@ -1,0 +1,59 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11396</md:content-id>
+  <md:title>ELEC 301 Project: Voice Recognition</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>986e19a2-1312-46ae-a7ae-94b2807d242f</md:uuid>
+<md:slug>elec-301-project-voice-recognition</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m41983"/>
+        
+      
+    
+    
+      <col:module document="m41984"/>
+        
+      
+    
+    
+      <col:module document="m41985"/>
+        
+      
+    
+    
+      <col:module document="m41986"/>
+        
+      
+    
+    
+      <col:module document="m41987"/>
+        
+      
+    
+    
+      <col:module document="m42007"/>
+        
+      
+    
+    
+      <col:module document="m42002"/>
+        
+      
+    
+  </col:content>
+</col:collection>
